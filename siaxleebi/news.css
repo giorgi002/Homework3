@@ -1,0 +1,183 @@
+.ptag {
+	display: inline-block;
+	margin: 30px;
+	padding: 10px;
+	margin-left: 80px;
+
+}
+
+.btag { margin: 40px;
+	text-decoration: none;
+	vertical-align: 55px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	color: #4E6FAE;
+	font-size: 24px;
+}
+.atag {
+	margin: 80px;
+	text-decoration: none;
+	vertical-align: 55px;
+	font-size: 24px;
+	color: #8D81FF
+}
+
+#wtag {
+	display: inline-block;
+	width: 1200px;
+	height: 462px;
+	
+	margin-left: 180px;
+}
+.xtag {
+	display: inline-block;
+	font-size: 26px;
+	font-weight: 700;
+	color: #4E6FAE;
+	margin-left: 250px;
+	margin-top: 80px;
+}
+div {  }
+#line {
+	display: inline-block;
+ 	color: #5012D5;
+ 	height: 30px;
+ 	width: 2px;
+ 	background-color: #5012D5;
+ 	margin: 0 20px;
+ }
+
+. { display:inline-block;
+ border: 1px solid black;
+ 
+background-color:#E7E7E7;
+margin-left: 210px;
+margin-top: 10px;
+margin-bottom: 20px;
+
+width: 550px;
+ 
+
+
+ 	height: 200px;
+
+      }
+    #btag {display: inline-block;
+	font-size: 26px;
+	font-weight: 200;
+	color: #4E6FAE;
+	
+
+    } 
+	 #wtag {
+	 	margin: 20px;
+	 	margin-left: 180px;
+	 }
+.mtag{
+		display: inline-block;
+		
+		
+		height: 200px;
+
+		
+		width: 500px;
+		border: 0px;
+		background-color: #E7E7E7;
+		margin-left: 250px;
+		margin-bottom: -80px;
+
+
+	}
+	.jtag {
+
+		margin-left: 20px;
+		font-size: 20px;
+		font-weight: 350;
+		margin-top: 20px;
+
+
+		
+	}
+	.ltag {
+		
+		size: 20px;
+		height: 70px;
+		margin-left: 20px;
+		margin-top: 10px;
+
+
+	}
+	.rtag {
+
+
+		font-size: 18px;
+		font-weight: 200;
+		margin-left: 120px;
+		margin-top: -80px;
+		
+		
+		
+
+	}
+#ktag { display: inline-block;
+		width: 300px;
+		border: 10px;
+		font-size: 20px;
+		font-weight: 300;
+		margin-left: 40px;
+
+		
+		margin-bottom: 0px;
+		vertical-align: top;
+		margin-top: 15px;
+		
+
+
+}
+#dtag {
+	display: inline-block;
+	margin-left: 800px;
+	margin-top: -300px;
+	vertical-align: 7px;
+	margin-bottom: 100px;
+	
+
+	
+}
+#ftag { margin-left: 30px;
+	font-size: 20px;
+	font-weight: 300;
+
+
+}
+#ctag {
+	margin-top: 30px;
+    margin-right: 90px;
+    height: 89px;
+    width: 89px;
+    margin-left: 30px;
+
+}
+#utag {
+	margin-left: 170px;
+	margin-top: -110px;
+	margin-bottom: 100px;
+	font-size: 18px;
+	font-weight: 200;
+}
+#line1 {
+ 	display: inline-block;
+ 	background-color: #5012D5;
+ 	height: 50px;
+ 	width: 2px;
+ 	background-color: black;
+ 	margin: 0 20px;
+ }
+ #container {
+ 	width: 300px;
+ 	margin: 90px;
+ 	margin-left: 250px;
+ 	margin-bottom: 200px;
+ 	margin-top: 50px;
+
+ }

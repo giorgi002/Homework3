@@ -1,0 +1,169 @@
+.ptag {
+	display: inline-block;
+	margin: 30px;
+	padding: 10px;
+}
+div {
+margin: 40px;
+
+
+}
+.btag { margin: 40px;
+	text-decoration: none;
+	vertical-align: 55px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	color: #4E6FAE;
+	font-size: 24px;
+
+
+}
+.atag {
+	margin: 80px;
+	text-decoration: none;
+	vertical-align: 55px;
+	font-size: 24px;
+	color: #8D81FF
+
+
+
+}
+.date{
+ margin: 40px;
+	font-size: 24px;
+	font-weight: 400;
+    background-color: #5012D5;
+    color: #84FF81;
+    width: 20px;
+    height: 30px;
+    line-height:40px ; 
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+
+}
+.month {
+	margin: 40px;
+	font-size: 24px;
+	line-height: 28.8px;
+	color: #8D81FF;
+	font-weight: 400;
+}
+.htag {
+	color: #4E6FAE;
+	margin: 40px;
+	padding-bottom: 1px;
+	margin-bottom: 0px;
+
+}
+.image {
+	margin: 40px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}
+div { display:inline-block; }
+
+article {display: inline-block;
+vertical-align: text-top;
+fon}
+.flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 0px;
+}
+.etag { 
+	font-size: 16px;
+	display: inline-block;
+	padding-top: 20px;
+	margin-top: -10px;
+	color: #4E6FAE;
+	vertical-align: -10px;
+
+	
+
+
+}
+#itag {
+	margin: 40px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 170px;
+
+}
+#ttag {
+	font-size: 16px;
+	display: inline-block;
+	color: #4E6FAE;
+	
+}
+.qtag {
+	font-size: 16px;
+	
+    vertical-align: text-top;
+	margin-top: 0px;
+	color: #4E6FAE;
+}
+div {
+	margin: 50px;
+	display: inline-block;
+	
+	
+
+}
+.ytag {
+    margin-bottom: 0px;	
+  margin-top: 0px;
+	
+	
+}
+#otag { margin: 40px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 160px;
+}
+#utag {margin: 40px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 0px;
+	
+}
+#stag {
+	color: #4E6FAE;
+	padding-bottom: 90px;
+    margin: 90px;
+}
+.ltag {margin: 90px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 160px;
+
+}
+#ztag{ display: inline-block;
+	justify-content: space-between;
+    margin-left: 180px;
+    margin-bottom: 150px;
+    vertical-align: top;
+      
+
+ }
+ #line {
+ 	display: block;
+ 	background-color: #5012D5;
+ 	height: 50px;
+ 	width: 2px;
+ 	background-color: black;
+ 	margin: 0 20px;
+ }
+ #container {
+ 	width: 300px;
+ 	margin: 90px;
+
+ }
